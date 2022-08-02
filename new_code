@@ -1,0 +1,11 @@
+defmain():
+
+print("Hello World!")
+
+print("123")
+
+
+
+if__name__ =="__main__":
+
+main()
