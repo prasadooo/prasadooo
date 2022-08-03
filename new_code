@@ -2,7 +2,7 @@ defmain():
 
 print("Hello World!")
 
-print("1234568888")
+print("123")
 
 
 
